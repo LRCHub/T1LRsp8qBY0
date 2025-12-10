@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "YOUR WAY'S BETTER",
+  "base_artist": "Forrest Frank",
+  "createdAt": "2025-12-10T23:00:08.961936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "YOUR WAY'S BETTER (SHORTER)",
+      "artist": "Forrest Frank",
+      "has_synced": false,
+      "path": "select/01_YOUR_WAY'S_BETTER_(SHORTER)_Forrest_Frank.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "YOUR WAY'S BETTER",
+      "artist": "Forrest Frank",
+      "has_synced": true,
+      "path": "select/02_YOUR_WAY'S_BETTER_Forrest_Frank.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "YOUR WAY'S BETTER",
+      "artist": "Forrest Frank",
+      "has_synced": true,
+      "path": "select/03_YOUR_WAY'S_BETTER_Forrest_Frank.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forrest Frank - YOUR WAY'S BETTER (Official Audio)",
+      "artist": "Forrest Frank",
+      "has_synced": true,
+      "path": "select/04_Forrest_Frank_-_YOUR_WAY'S_BETTER_(Official_Audio)_Forrest_Frank.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forrest Frank - YOUR WAY'S BETTER (Official Audio)",
+      "artist": "Forrest Frank",
+      "has_synced": true,
+      "path": "select/05_Forrest_Frank_-_YOUR_WAY'S_BETTER_(Official_Audio)_Forrest_Frank.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Forrest Frank - YOUR WAY'S BETTER (Official Lyric Video)",
+      "artist": "Forrest Frank",
+      "has_synced": true,
+      "path": "select/06_Forrest_Frank_-_YOUR_WAY'S_BETTER_(Official_Lyric_Video)_Forrest_Frank.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "YOUR WAY'S BETTER (Paused)",
+      "artist": "Forrest Frank",
+      "has_synced": true,
+      "path": "select/07_YOUR_WAY'S_BETTER_(Paused)_Forrest_Frank.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YOUR WAY'S BETTER",
+      "artist": "Forrest Frank",
+      "has_synced": false,
+      "path": "select/pl_01_YOUR_WAY'S_BETTER_Forrest_Frank.txt"
+    }
+  ]
+}
